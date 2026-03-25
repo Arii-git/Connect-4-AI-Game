@@ -51,7 +51,7 @@ Alpha-Beta produces identical moves to Minimax but explores fewer nodes, improvi
    git clone <your-repo-url>
 2. Open `index.html` in a browser.
 
-Or open the deployed github pages version: 
+Or open the deployed github pages version: https://arii-git.github.io/Connect-4-AI-Game/
 
 ---
 
